@@ -10,15 +10,15 @@ ROS2パッケージです。
 
 * talker.py
 
-- 0.5秒ごとに1増加する数値を送信するノード
+  0.5秒ごとに1増加する数値を送信するノード
 
 * listener.py
 
-- talkerで送信されたメッセージを受け取って端末に表示するノード
+  talkerで送信されたメッセージを受け取って端末に表示するノード
 
 * talk_listen.launch.py
 
-- talkerとlistenerを同時に立ち上げるためのlaunchファイル。
+  talkerとlistenerを同時に立ち上げるためのlaunchファイル。
 
 # テスト環境
 * ROS2 Humble
