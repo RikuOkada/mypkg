@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Riku Okada s16c1030bg@s.chibakoudai.jp
+# SPDX-License-Identifier: BSD-3-Clause
+
 import launch
 import launch.actions
 import launch.substitutions
