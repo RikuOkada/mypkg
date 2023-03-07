@@ -1,7 +1,5 @@
 ![test](https://github.com/RikuOkada/sisutemugaku/actions/workflows/test.yml/badge.svg)
 
-# インストール方法
-
 ROS2パッケージです。
 
 # 説明
